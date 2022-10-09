@@ -1,3 +1,3 @@
 # Olá, Mundo!
- Meuprimeiro Git.
+ Meuprimeiro Git. **O *estudo* gera o crescimento**!
  
